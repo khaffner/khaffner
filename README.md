@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-If you're reading this, you might be interested in what I'm doing at work and/or what kind of projects I enjoy personally.
+If you're reading this, you might be interested in what I'm doing at work and/or what kind of projects I enjoy personally. Also check out my [blog](https://kevinhaffner.blogspot.com/)!
 
 ## At work:
 - Bridging the gap between enterprise windows package management, and cloud native technologies.
