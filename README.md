@@ -4,6 +4,8 @@
 
 If you're reading this, you might be interested in what I'm doing at work and/or what kind of projects I enjoy personally. Also check out my [blog](https://kevinhaffner.blogspot.com/)!
 
+I'm also on Nostr, add me: npub19hdpl7629d378n9nsxrdcdkantcf9hpfzffrr0ntf3yq2xft2tesf28rfn
+
 ## At work:
 - Bridging the gap between enterprise windows package management, and cloud native technologies.
   - Windows package management is messy. It doesn't have to be, Im working towards fixing this at [Intility](https://intility.no/en/).
